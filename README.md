@@ -62,7 +62,7 @@ The application uses AWS Lambda to execute Python business logic, API Gateway to
 Base URL:
 
 ```text
-https://YOUR_API_ID.execute-api.us-east-1.amazonaws.com/test
+https://nkjgyjzcei.execute-api.us-east-1.amazonaws.com/test/students
 ```
 
 | HTTP Method | Endpoint | Description |
